@@ -4,7 +4,7 @@
 name: Issue triager
 on:
   issues:
-    types: [opened]
+    types: [push]
 
 jobs:
   label:
